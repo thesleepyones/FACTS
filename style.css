@@ -1,0 +1,35 @@
+h1{
+    color: aquamarine;
+    font-size: larger;
+    text-align: center;
+
+}
+
+button{
+    color: brown;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+
+
+}
+
+body{
+    background-color: black;
+
+}
+
+H2{
+    color: chocolate;
+    font-size: larger;
+    text-align: center;
+}
+p{
+    color: cornflowerblue;
+    text-align: center;
+    text-decoration: wavy;
+}
+h3{
+    color: darkslateblue;
+    text-align: right;
+}
